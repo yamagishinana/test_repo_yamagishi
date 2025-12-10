@@ -9,4 +9,4 @@ test repo
 コンフリクト対処2(develop)
 コンフリクト対処2(develop)
 コンフリクト対処3(main)
-い(develop)
+い(main)
