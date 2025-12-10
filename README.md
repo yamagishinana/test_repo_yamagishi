@@ -4,3 +4,4 @@ test repo
 コンフリクト対処p4merge(develop)
 コンフリクト対処p4merge(develop)
 コンフリクト対処p4merge(main)
+コンフリクト対処（main）
