@@ -1,4 +1,4 @@
-# test_repo_yamagishi
+﻿# test_repo_yamagishi
 test repo
 追� (develop)
 コンフリクト対処p4merge(develop)
