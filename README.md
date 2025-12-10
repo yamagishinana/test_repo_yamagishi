@@ -1,6 +1,6 @@
 # test_repo_yamagishi
 test repo
-追加 (develop)
+追� (develop)
 コンフリクト対処p4merge(develop)
 コンフリクト対処p4merge(develop)
 コンフリクト対処p4merge(main)
@@ -9,4 +9,6 @@ test repo
 コンフリクト対処2(develop)
 コンフリクト対処2(develop)
 コンフリクト対処3(main)
-あ(main)
+�develop)
+�main)
+う(develop)
