@@ -8,3 +8,4 @@ test repo
 コンフリクト対処1(main)
 コンフリクト対所1(develop)
 コンフリクト対処2(develop)
+コンフリクト対処2(develop)
