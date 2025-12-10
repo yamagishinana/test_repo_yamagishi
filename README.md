@@ -10,3 +10,5 @@ test repo
 コンフリクト対処2(develop)
 コンフリクト対処3(main)
 い(main)
+う(main)
+え(develop)
